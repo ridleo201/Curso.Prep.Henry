@@ -86,7 +86,7 @@ function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
   // Tu código:
-  num=100;
+  num=80;
   if (num>90){
     return true;
   }
